@@ -16,3 +16,7 @@ Onboarding
 Investments
 -----------
 * The Hacker's Guide to Investors: http://www.paulgraham.com/guidetoinvestors.html
+
+Process
+-----------
+* The Basecamp Employee Handbook: https://github.com/basecamp/handbook
