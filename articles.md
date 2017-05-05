@@ -1,7 +1,5 @@
-A Reading list for digital product designers/developers
+Books
 ===============
-
-Crowdsourced collection of the best reading for digital product designers/developers.
 
 Interaction Design
 -----------
