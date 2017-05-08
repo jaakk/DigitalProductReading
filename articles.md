@@ -1,6 +1,10 @@
 Articles
 ===============
 
+Thinking
+-----------
+* [Putting Thought Into Things](https://ia.net/topics/putting-thought-into-things/), iA
+
 Interaction Design
 -----------
 
