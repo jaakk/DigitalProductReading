@@ -7,6 +7,7 @@ Thinking
 
 Interaction Design
 -----------
+* [A Shorthand for Designing UI Flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows), Signal v. Noise
 
 Content and Writing
 -----------
