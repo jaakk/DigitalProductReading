@@ -4,6 +4,7 @@ Articles
 Thinking
 -----------
 * [Putting Thought Into Things](https://ia.net/topics/putting-thought-into-things/), iA
+* [Notes Essays—Peter Thiel’s CS183: Startup—Stanford, Spring 2012](http://blakemasters.com/peter-thiels-cs183-startup), Blake Masters
 
 Interaction Design
 -----------
