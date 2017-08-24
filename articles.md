@@ -24,6 +24,7 @@ Investments
 
 Process
 -----------
-* The Basecamp Employee Handbook: https://github.com/basecamp/handbook
+* [The Basecamp Employee Handbook](https://github.com/basecamp/handbook)
 * [The Dribblisation of Design](https://blog.intercom.com/the-dribbblisation-of-design/)
 * [37 Signals Manifesto](https://37signals.com/manifesto)
+* [The Difference Between Amateurs and Professionals](https://www.farnamstreetblog.com/2017/08/amateurs-professionals)
