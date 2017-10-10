@@ -28,3 +28,4 @@ Process
 * [The Dribblisation of Design](https://blog.intercom.com/the-dribbblisation-of-design/)
 * [37 Signals Manifesto](https://37signals.com/manifesto)
 * [The Difference Between Amateurs and Professionals](https://www.farnamstreetblog.com/2017/08/amateurs-professionals)
+* [What the smartest people do on the weekend is what everyone else will do during the week in ten years](http://cdixon.org/2013/03/03/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years/), Chris Dixon
